@@ -1,0 +1,10 @@
+.r1{
+    width: 80%;
+}
+
+  @media only screen and (max-width: 600px) {
+.img1 {       visibility: hidden;
+    display: none;
+     
+    }
+}
